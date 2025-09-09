@@ -12,7 +12,7 @@
 # % TS-NLM
 # "Test_TS_NLM" produces the results of TS-NLM.
 
-# % R-NL
+# % R-NL, also named R-NLM.
 # "zhRNLM" produces the results of R-NL (code repository: https://github.com/csutour/RNLF).
 
 # % NLNCDR
