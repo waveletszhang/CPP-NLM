@@ -12,8 +12,8 @@
 # % TS-NLM
 # "Test_TS_NLM" produces the results of TS-NLM.
 
-# % R-NLM
-# "zhRNLM" produces the results of R-NLM (code repository: https://github.com/csutour/RNLF).
+# % R-NL
+# "zhRNLM" produces the results of R-NL (code repository: https://github.com/csutour/RNLF).
 
 # % NLNCDR
 # "zhOurs_twice" produces the results of NLNCDR (code repository: https://github.com/HUST-Tan/NCDR).
